@@ -28,7 +28,7 @@ conda activate biopython
 ```
 
 Now, `(biopython)` should be in front of your cursor. Next, lets start up Python.
-	python
+	`python`
 Now, we can look at the populations in our file to see if everything loads in correctly. Anything that starts with “#” below is a comment and should not be entered. 
 
 ```
